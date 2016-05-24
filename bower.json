@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "homepage": "https://github.com/qq992199027/hello-world",
+  "authors": [
+    "huangpeihan <865093669@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "underscore": "^1.8.3"
+  }
+}
